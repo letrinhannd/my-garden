@@ -16,4 +16,15 @@
 
 📁 [[Digital garden/Văn học\|Văn học]]
 
+<h2>📊 Lượt truy cập: <span id="visit-count">Đang tải...</span></h2>
 
+<script>
+  fetch('https://api.countapi.xyz/hit/mydigitalgarden/visits')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById("visit-count").innerText = data.value;
+    });
+</script>
+
+
+ 
