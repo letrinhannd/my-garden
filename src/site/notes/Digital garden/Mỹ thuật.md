@@ -3,9 +3,12 @@
 ---
 
 
-| STT |                   File                    | Description |
-| :-: | :---------------------------------------: | :---------: |
-|  1  | ![[Pasted image 20250120111315.jpg\|300]] |             |
-|  2  | ![[Pasted image 20250120111319.jpg\|300]] |             |
-|  3  | ![[Pasted image 20250120111322.jpg\|300]] |             |
-|     |                                           |             |
+| STT |                               File                               | Description |
+| :-: | :--------------------------------------------------------------: | :---------: |
+|  1  | <img src="https://i.imgur.com/zyYBblV.jpeg" width="300"><br><br> |             |
+|  2  |   <img src="https://i.imgur.com/MF909aH.jpeg" width="300"><br>   |             |
+|  3  |   <img src="https://i.imgur.com/K4x8xhV.jpeg" width="300"><br>   |             |
+|     |                                                                  |             |
+
+
+
