@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/am-nhac/","created":"2025-01-18T12:55:23.346+00:00","updated":"2025-01-18T13:26:15.097+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/am-nhac/"}
 ---
 
 # 🎼 **Thư Khố Âm Nhạc** 🎼
@@ -13,7 +13,7 @@
 
 📀 [[Tên Album 3\|Tên Album 3]]
 
-## 🎼 **Bản Nhạc Viết**
+## 🎼 **Bài nhạc**
 
 🎵 [[Tên Bản Nhạc 1\|Tên Bản Nhạc 1]] 
 
