@@ -24,7 +24,7 @@
 
 <!-- Giới thiệu -->
 <h2>Giới thiệu</h2>
-<p>Chào mừng bạn đến với thư khố cá nhân – nơi lưu trữ những suy nghĩ, cảm hứng và khám phá từ nhiều lĩnh vực khác nhau như âm nhạc, triết học, mỹ thuật và văn học.</p>
+<p>Nơi lưu trữ các dự án quan trọng.</p>
 
 <hr>
 
