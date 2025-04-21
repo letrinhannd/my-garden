@@ -2,29 +2,70 @@
 {"dg-publish":true,"permalink":"/nhan-archive-home-page/","tags":["gardenEntry"]}
 ---
 
- <div align="center"> <img src="https://i.imgur.com/n3y46Y2.jpg" width="100%"> </div>
+<div align="center">
+  <img src="https://i.imgur.com/n3y46Y2.jpg" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
 
-<div align="center"> <span style="font-size: 50px; font-weight: bold;">📖 Trang chủ thư khố</span> <br> <span style="font-size: 18px; font-style: italic; color: gray;" </span> </div>
+<!-- Tiêu đề -->
+<div align="center">
+  <h1 style="font-size: 48px; margin-top: 20px;">📖 Trang chủ thư khố</h1>
+  <p style="font-size: 18px; font-style: italic; color: gray;">Nhan's Archive</p>
+</div>
 
----
-# Menu
+<hr>
 
-|  📁 [[Digital garden/Âm nhạc\|Âm nhạc]] 🎵  |  📁 [[Digital garden/Triết học\|Triết học]] 📖  |  📁 [[Digital garden/Mỹ thuật\|Mỹ thuật]] 🎨  |  📁 [[Digital garden/Văn học\|Văn học]] ✍️  |
+<!-- Menu -->
+<h2>📂 Menu</h2>
+<div style="font-size: 18px;">
+  📁 [[Digital garden/Âm nhạc\|Âm nhạc]] 🎵 | 📁 [[Digital garden/Triết học\|Triết học]] 📖 | 📁 [[Digital garden/Mỹ thuật\|Mỹ thuật]] 🎨 | 📁 [[Digital garden/Văn học\|Văn học]] ✍️
+</div>
 
----
-# Giới thiệu
+<hr>
 
+<!-- Giới thiệu -->
+<h2>Giới thiệu</h2>
+<p>Chào mừng bạn đến với thư khố cá nhân – nơi lưu trữ những suy nghĩ, cảm hứng và khám phá từ nhiều lĩnh vực khác nhau như âm nhạc, triết học, mỹ thuật và văn học.</p>
 
----
-# Mục lục
+<hr>
 
-| <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; cursor: pointer;"><br>                <img src="https://i.imgur.com/CuW7sD7.png" width="100%" style="border-radius: 8px;">-------[[Digital garden/Âm nhạc\|Âm nhạc]]-------<br> | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; cursor: pointer;"><br>                <img src="https://i.imgur.com/cfhIXJN.png" width="100%" style="border-radius: 8px;">-------[[Digital garden/Triết học\|Triết học]]------- | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; cursor: pointer;"><br>                <img src="https://i.imgur.com/4pOYkqV.png" width="100%" style="border-radius: 8px;">-------[[Digital garden/Mỹ thuật\|Mỹ thuật]]------- |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; cursor: pointer;"><br>                <img src="https://i.imgur.com/VBpjclC.png" width="100%" style="border-radius: 8px;">-------[[Digital garden/Văn học\|Văn học]]-------     | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; cursor: pointer;"><br>                <img src="https://i.imgur.com/ITJN6Eq.png" width="100%" style="border-radius: 8px;">-------[[Digital garden/Khoa học\|Khoa học]]-------  |                                                                                                                                                                                                                                                             |
+<!-- Mục lục -->
+<h2>Mục lục</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
----
+  <!-- Card 1 -->
+  <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; color: white;">
+    <img src="https://i.imgur.com/CuW7sD7.png" style="width: 100%; border-radius: 8px;">
+    <p>[[Digital garden/Âm nhạc\|Âm nhạc]]</p>
+  </div>
 
+  <!-- Card 2 -->
+  <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; color: white;">
+    <img src="https://i.imgur.com/cfhIXJN.png" style="width: 100%; border-radius: 8px;">
+    <p>[[Digital garden/Triết học\|Triết học]]</p>
+  </div>
 
----
-# <div align="center"> <img src="https://i.imgur.com/WpGqeip.jpg" width="100%"> </div>
+  <!-- Card 3 -->
+  <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; color: white;">
+    <img src="https://i.imgur.com/4pOYkqV.png" style="width: 100%; border-radius: 8px;">
+    <p>[[Digital garden/Mỹ thuật\|Mỹ thuật]]</p>
+  </div>
 
+  <!-- Card 4 -->
+  <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; color: white;">
+    <img src="https://i.imgur.com/VBpjclC.png" style="width: 100%; border-radius: 8px;">
+    <p>[[Digital garden/Văn học\|Văn học]]</p>
+  </div>
+
+  <!-- Card 5 -->
+  <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center; color: white;">
+    <img src="https://i.imgur.com/ITJN6Eq.png" style="width: 100%; border-radius: 8px;">
+    <p>[[Digital garden/Khoa học\|Khoa học]]</p>
+  </div>
+</div>
+
+<hr>
+
+<!-- Footer banner -->
+<div align="center">
+  <img src="https://i.imgur.com/WpGqeip.jpg" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
