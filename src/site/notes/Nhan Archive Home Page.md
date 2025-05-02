@@ -13,17 +13,7 @@
 </div>
 
 <hr>
-
-<!-- Menu -->
-<h2>📂 Menu</h2>
-
-  📁 [[Digital garden/Âm nhạc\|Âm nhạc]] 🎵 | 📁 [[Digital garden/Triết học\|Triết học]] 📖 | 📁 [[Digital garden/Mỹ thuật\|Mỹ thuật]] 🎨 | 📁 [[Digital garden/Văn học\|Văn học]] ✍️
-
-
-<hr>
-
-<!-- Giới thiệu -->
-<h2>Giới thiệu</h2>
+<!-- Giới thiệu --><h2>Giới thiệu</h2>
 <p>Nơi lưu trữ các dự án quan trọng.</p>
 
 <hr>
@@ -31,9 +21,9 @@
 <!-- Mục lục -->
 <h2>Mục lục</h2>
 
-| <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/CuW7sD7.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>            [[Digital garden/Âm nhạc\|Âm nhạc]]  | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/cfhIXJN.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>           [[Digital garden/Triết học\|Triết học]] | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/4pOYkqV.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>          [[Digital garden/Mỹ thuật\|Mỹ thuật]] |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/VBpjclC.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>             [[Digital garden/Văn học\|Văn học]] | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/ITJN6Eq.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>           [[Digital garden/Khoa học\|Khoa học]]  |                                                                                                                                                                                                                                            |
+| <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/CuW7sD7.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>            [[Digital garden/Âm nhạc/Âm nhạc\|Âm nhạc]]  | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/cfhIXJN.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>           [[Digital garden/Triết học/Triết học\|Triết học]]  | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/4pOYkqV.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>            [[Digital garden/Mỹ thuật/Mỹ thuật\|Mỹ thuật]]         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/VBpjclC.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>             [[Digital garden/Văn học/Văn học\|Văn học]] | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/ITJN6Eq.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>             [[Digital garden/Khoa học/Khoa học\|Khoa học]] | <div style="background: #1E1E2E; padding: 15px; border-radius: 10px; width: 200px; text-align: center;"><br>    <img src="https://i.imgur.com/YqwRzCf.png" style="width: 100%; border-radius: 8px;"><br>  </div><br>           [[Digital garden/Kinh tế chính trị/Kinh tế chính trị\|Kinh tế chính trị]] |
 
         
 
